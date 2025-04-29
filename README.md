@@ -1,4 +1,4 @@
-# 🌸 Iris Week 7 Analysis Project
+# Iris Week 7 Analysis Project
 
 This project presents a step-by-step data analysis of the classic **Iris flower dataset**, using **Python**, **Pandas**, **Matplotlib**, and **Seaborn** in a Jupyter Notebook environment. The work is part of a Week 7 assignment focusing on loading, exploring, analyzing, and visualizing data using modern data analytics tools and practices.
 
